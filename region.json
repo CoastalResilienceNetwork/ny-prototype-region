@@ -80,7 +80,12 @@
                     "title": "Regional Planning",
                     "description": "Map overlays for the New York region",
                     "pluginName": "regional-planning"
-                }
+                },
+                {
+		    "title": "Future Habitat",
+		    "description": "Text from configuration file.",
+		    "pluginName": "future_habitat"
+		}
             ],
             "scenarios": [
                 {
