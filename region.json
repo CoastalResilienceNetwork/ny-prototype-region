@@ -73,7 +73,7 @@
     },
     "launchpad": {
             "title": "Getting Started",
-            "description": "Coastal Resilience in New York is a web-mapping platform that provides planners and natural resource managers access to data on coastal hazards, socioeconomics, and ecological resources, and tools to help guide decisions on reducing risk to communities and conserving and restoring coastal habitats.<br><br>To launch the web-mapping platform, click ‘Explore the map’ or select one of the Interactive maps listed below. ",
+            "description": "Coastal Resilience in New York is a web-mapping platform that provides planners and natural resource managers access to data on coastal hazards, socioeconomics, and ecological resources, and tools to help guide decisions on reducing risk to communities and conserving and restoring coastal habitats.",
             "plugins": [
                 {
                     "title": "Regional Planning",
@@ -87,11 +87,6 @@
 		}
             ],
             "scenarios": [
-                {
-                  "title": "Hurricane Sandy Surge Extent",
-                  "description": "Combined storm surge and sea level condition in Ventura County for the year 2100",
-                  "saveCode": "eyJzY3JlZW4iOsSAc3BsaXRTxIPEhcSHOmZhbHNlLMSBeW5jTWFwc8SIxJXEl2V9xJptxKAwxIjEgGV4dMSGdMSsInR5cGXEiCLErsSwbsSyxJp4bWnEky04MjczODYzLjYxxYUyNTY4OMSaecWBxJM0OcWQOMWILjUyMDAyMjQyMcS/xKl4xIgtNzk5M8WwOS43xaQ0xY45ODXFlcWpxIg1MDY3NzA1xYw0NDUxOTc2MsSaxIthdGnEllJlZmXEhMSdxLjEiSJ3a2lkxIgxxaLGojDEmmzGkGVzdFfGnsagOsWINTfEpyJjYWNoxprEgF9wYXJ0xKI6W8StxK/EscSzxLXEt8S5xLvHhcWoxYLFq8WFxYfFicWLxY3Fj8WRxZPFu8eNOsWZxZvFncWfxaHFo8WlxacixYBhxao6xazFrsWwM8WyxbTGhsW3xbnFu8ekxb3Fv8aBxoPGhcaHxonGi8aNxIHGvMaRxpPGlcaXxIZjxrnGnMatxqHGo8WhxqbGqMaqxqzGn8SIxrDGssazZnJhbWVJZMeAWzBdfcicxrPEmGxlY8SwZEJhxJjEqXBJbmTErsiOxrPGvG5lxKvGm8ixZU51bWLGl8SIxqXEgXTGqE9mUGx1Z8WCx4DEimXIocijZWTJhMmGx5gixIzJkW5zL8anecaXX8igyKJ0b3IixJrJlMmHyZbEs8mkyYjJmGHJmnLJnMmLyZ7JoMSzcm9vdC9Db8inyYBsIMaUc2nEjciBZSAoTlkpL05ldyBZyaBrMTIzxofGgDg5xqIxypnFpjMxxbbGiDbEs2/GvGPEjnnIvcWzxJrGt8iia8mOxKPElsSYxrN2xpfJv2/EkyIxLjHJoiLJs8m1ybfJucaqxJbJvcapyoBpyoLKhMqGyojKisqMyo5yypA4xonFoMqhyqPKpcqnN8qpxrhjyqzGrsSkyrDEmsq9ybbJuMm6y4LJvsuFy4fKhcqHyonKi8qNyo/Fo8qSxaTFkDLGjDfLk8a2y5U6MMqoxrTLmcubyq7Epcazy6DKv8ujybzLpcqBxpnLiMupy4vLrMuOMsWvMMqcM8qSM8u1yqTEtcuWy5jKq8qtxJTKr8Smy5/JtMuhy4DJu8uDyb/MhsiCzIjLisury41rMzUzxYrHkMeqNDDFtsWlzJTLt8u5y5fLu8yZy5zMnMyAzJ/MgsuBzITLhMylyoPLqMyoy4zKj8aGxoc0NjQ3NDjFmcW+xojMtsyWy7jLusqqy5rMmsudzJ3KvMy/y6LNgcyjy6bMh82Gy6rNiMuOzK01xoc1zZXKps2XzLnNmcu9zJvLv8yeyr7NoMyizIXLhs2ky4nNpsyLa8axNcW5Oc2tzJfMus2azLzNtM2eyr5IdXJyaca1yLIgU2HIrHkvU86NZ2VCb3XIrMa9y4ZzIEbFgsuCxqM0zoTNr8yYzofEiHRydcSZInZpyb9iyKFMyavGl8iXyJnGpcWnMsiczbXJts6Mzo7OkM6VyoPOlM6WL8WgypHOk86VZM2uxIDKosu2zZbMuM6szbLNnMy+yr5EZXB0aCDJnyBHybPOn2R3xqhyL8WRYjNiOGIyZTRiMGNjxa3Frjdmz61hOM6qz5bOhs+YzL190IXQhQ=="
-                },
                 {
                   "title": "Jamaica Bay (NYC) Marsh Migration",
                   "description": "Combined storm surge and sea level condition in Ventura County for the year 2100",
