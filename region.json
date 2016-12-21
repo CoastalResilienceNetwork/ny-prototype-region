@@ -4,9 +4,7 @@
     "titleMain": { "text": "Coastal Resilience", "url": "http://coastalresilience.org/" },
     "titleDetail": { "text": "New York", "url": "http://coastalresilience.org/geographies/new-york-and-connecticut" },
 	"headerLinks": [
-	{ "text": "TOUR", "url": "javascript:;", "elementId": "help-overlay-start"},
         { "text": "The Nature Conservancy", "url": "http://nature.org/marine/" },
-        { "text": "Partners", "url": "partners.html", "popup": true },
         { "text": "Legal Disclosure", "url": "http://www.nature.org/about-us/governance/terms-of-use.xml" }
     ],
     "regionLinks": [
@@ -53,13 +51,11 @@
         "subregion_toggle"
     ],
     "print": {
-        "printServerUrl": "http://services.coastalresilience.org:6080/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
-	"customPrintTemplatePrefix": "Letter ANSI A GeositeFramework",
-	"headerLogoPath": "http://maps.coastalresilience.org/network/img/TNCLogoPrimary_RGB2.jpg"
+	    "headerLogoPath": "http://maps.coastalresilience.org/network/img/TNCLogoPrimary_RGB2.jpg"
     },
     "colors": {
        "primary": "#26648E",
-       "secondary": "#26648E",
+       "secondary": "#3BBDC2",
        "tertiary": "#333333"
     },
    "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
